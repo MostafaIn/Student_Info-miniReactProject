@@ -1,6 +1,6 @@
 # DEMO 
 
-this is student info mini project using React [Student INFO app](https://mostafaIn.github.com/).
+this is student info mini project using React [Student INFO app](https://mostafain.github.io/Student_Info-miniReactProject/).
 
 
 *********************************************************************************
